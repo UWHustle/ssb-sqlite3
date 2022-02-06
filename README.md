@@ -1,4 +1,6 @@
-# SSB on SQLite3
+# SSB on SQLite3 (Archived)
+
+**Please see [sqlite-performance](https://github.com/UWHustle/sqlite-performance) for replacement.**
 
 ## Project structure
 
